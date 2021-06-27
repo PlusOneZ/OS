@@ -1,0 +1,9 @@
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/PlusOneZ/OS-Homework-Elevator-Dispatching
+[submodule "memory"]
+	path = memory
+	url = https://github.com/PlusOneZ/OS-Homework-Memory-Allocation
+[submodule "file"]
+	path = file
+	url = https://github.com/PlusOneZ/OS-Homework-File-Managing-Simulator
